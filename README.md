@@ -20,7 +20,7 @@ So far I have only created the outline for what the final web app will look like
 ## How to run 
 1. Clone repository by downloading .zip file or by using git commands
 ```
-git clone https://github.com/ashlyfarrar/CIT380-class-app
+git clone https://github.com/ashlyfarrar/gpa-calculator-app
 ```
 2. Navigate to project
 ```
