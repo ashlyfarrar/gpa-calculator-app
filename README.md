@@ -17,7 +17,7 @@ My goal for this project is to create a fully functioning GPA calculator applica
 
 So far I have only created the outline for what the final web app will look like. I have taken design inspiration from the lecture videos by Morgan Worrell and this full stack tutorial by Nsquared Coding https://www.youtube.com/watch?v=vrj9AohVhPA
 
-### How to run 
+## How to run 
 1. Clone repository by downloading .zip file or by using git commands
 ```
 git clone https://github.com/ashlyfarrar/CIT380-class-app
