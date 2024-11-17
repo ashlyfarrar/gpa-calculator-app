@@ -10,7 +10,7 @@ My goal for this project is to create a fully functioning GPA calculator applica
 - Calculate GPA based on input data
 - Store course information in MySQL database
 
-## Current Features
+### Current Features
 - Index and About page
 - User input fields
 - Course table outline
